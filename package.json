@@ -29,6 +29,7 @@
   "dependencies": {
     "eslint-utils": "^1.4.1",
     "fstream": "^1.0.12",
+    "google-map-react": "^1.1.4",
     "js-yaml": "^3.13.1",
     "lodash": "^4.17.13",
     "mixin-deep": "^1.3.2",
